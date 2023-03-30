@@ -1,4 +1,4 @@
-# multi_ray_localization
+# Multi-ray-localization
 
 Multi ray localization on OpenSfM or OpenDroneMap
 
