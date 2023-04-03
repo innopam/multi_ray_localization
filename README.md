@@ -11,7 +11,7 @@ Please see here.
 https://github.com/mapillary/OpenSfM/blob/main/opensfm/io.py
 
 
-Multi_Ray_local 경로에 있는 Multi_Ray_Localization_cpu.py 를 사용하세요.
+Multi_Ray_local/Multi_Ray_Localization_cpu.py 를 사용하세요.
 
 해당 python file은 opensfm에 여전히 의존하고 있습니다. 
 
