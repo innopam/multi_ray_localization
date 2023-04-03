@@ -1,0 +1,99 @@
+{
+    "image_data": [
+        {
+            "image_name": "DJI_0010.JPG",
+            "coordinates": [
+                [2100, 1332],
+                [1448, 1359],
+                [1581, 1409]
+            ]
+        },
+        {
+            "image_name": "DJI_0029.JPG",
+            "coordinates": [
+                [1881, 647],
+                [1663, 476],
+                [1686, 561]
+            ]
+        },
+        {
+            "image_name": "DJI_0016.JPG",
+            "coordinates": [
+                [1985, 730],
+                [783, 1152],
+                [960, 1267]
+            ]
+        },
+        {
+            "image_name": "DJI_0026.JPG",
+            "coordinates": [
+                [741, 1532],
+                [242, 1501],
+                [346, 1563]
+            ]
+        },
+        {
+            "image_name": "DJI_0095.JPG",
+            "coordinates": [
+                [2062, 538],
+                [2189, 733]
+            ]
+        },
+        {
+            "image_name": "DJI_0031.JPG",
+            "coordinates": [
+                [2419, 983],
+                [1601, 591],
+                [1624, 687]
+            ]
+        },
+        {
+            "image_name": "DJI_0035.JPG",
+            "coordinates": [
+                [2761, 776]
+            ]
+        },
+        {
+            "image_name": "DJI_0045.JPG",
+            "coordinates": [
+                [2373, 733]
+            ]
+        },
+        {
+            "image_name": "DJI_0037.JPG",
+            "coordinates": [
+                [2983, 902]
+            ]
+        },
+        {
+            "image_name": "DJI_0047.JPG",
+            "coordinates": [
+                [2342, 706]
+            ]
+        },
+        {
+            "image_name": "DJI_0104.JPG",
+            "coordinates": [
+                [1797, 726]
+            ]
+        },
+        {
+            "image_name": "DJI_0110.JPG",
+            "coordinates": [
+                [2768, 706]
+            ]
+        },
+        {
+            "image_name": "DJI_0100.JPG",
+            "coordinates": [
+                [2327, 741]
+            ]
+        },
+        {
+            "image_name": "DJI_0106.JPG",
+            "coordinates": [
+                [2054, 564]
+            ]
+        }
+    ]
+}
