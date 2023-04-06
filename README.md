@@ -29,6 +29,13 @@ NAS4
 
 /volume1/1_InternalCompany/Drone_dataset/PM2021002.제주작물모니터링/05_감귤나무/02_신효동 감귤나무/
 #
+
+위 코드는 opendronemap/odm:gpu Docker 환경에서 수행
+
+https://hub.docker.com/r/opendronemap/odm/tags
+
+    docker pull opendronemap/odm:gpu
+
 Multi_Ray_local/Multi_Ray_Localization_cpu.py 를 사용하세요.
 
 해당 python file은 opensfm에 여전히 의존하고 있습니다. 
