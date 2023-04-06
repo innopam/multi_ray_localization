@@ -11,7 +11,19 @@ Please see here.
 https://github.com/mapillary/OpenSfM/blob/main/opensfm/io.py
 
 
-# Requirements
+# Installed
+
+1. OpenDroneMap or OpenSfM
+
+2. Requirements
+
+    pip install plotly
+    pip install pyproj
+    pip install shapely
+    pip install scipy
+    pip install itertools
+    
+    
 Multi_Ray_local/Multi_Ray_Localization_cpu.py 를 사용하세요.
 
 해당 python file은 opensfm에 여전히 의존하고 있습니다. 
