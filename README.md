@@ -23,7 +23,11 @@ https://github.com/mapillary/OpenSfM/blob/main/opensfm/io.py
     pip install scipy
     pip install itertools
 ``` 
+# Dataset
 
+NAS4
+
+/volume1/1_InternalCompany/Drone_dataset/PM2021002.제주작물모니터링/05_감귤나무/02_신효동 감귤나무/
 #
 Multi_Ray_local/Multi_Ray_Localization_cpu.py 를 사용하세요.
 
